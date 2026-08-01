@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>דמנציה בקיצור</title>
+    <link>https://johnn12389.github.io/dm4zqk9vxrpt/</link>
+    <language>he</language>
+    <description>פודקאסט לימודי בעברית על דמנציה וירידה קוגניטיבית לרופאים, מתמחים וסטודנטים התוכן מופק אוטומטית באמצעות בינה מלאכותית ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</description>
+    <itunes:author>דמנציה בקיצור</itunes:author>
+    <itunes:summary>פודקאסט לימודי בעברית על דמנציה וירידה קוגניטיבית לרופאים, מתמחים וסטודנטים התוכן מופק אוטומטית באמצעות בינה מלאכותית ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <googleplay:block>yes</googleplay:block>
+    <itunes:image href="https://johnn12389.github.io/dm4zqk9vxrpt/cover.jpg"/>
+    <itunes:category text="Health &amp; Fitness">
+      <itunes:category text="Medicine"/>
+    </itunes:category>
+    <itunes:category text="Science"/>
+    <itunes:owner>
+      <itunes:name>דמנציה בקיצור</itunes:name>
+    </itunes:owner>
+    <atom:link href="https://johnn12389.github.io/dm4zqk9vxrpt/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>פיילוט – נוגדנים נגד עמילואיד באלצהיימר: לקנמאב, דוננמאב ותסמונת ARIA</title>
+      <description>מהפכת ה-DMT במחלת אלצהיימר – נתוני יעילות, בטיחות וניטור ARIA לקהל המומחים | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</description>
+      <itunes:summary>מהפכת ה-DMT במחלת אלצהיימר – נתוני יעילות, בטיחות וניטור ARIA לקהל המומחים | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</itunes:summary>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://johnn12389.github.io/dm4zqk9vxrpt/audio/alz1_kdjfhqwz.mp3" length="26299328" type="audio/mpeg"/>
+      <guid isPermaLink="false">nbk-private-alz1_kdjfhqwz.mp3</guid>
+      <pubDate>Wed, 10 Jun 2026 07:00:00 +0000</pubDate>
+      <itunes:duration>00:26:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
